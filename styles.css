@@ -3,13 +3,13 @@ font-family: Georgia, serif;
 font-size: 100%;
 line-height: 150%;
 margin:0 15%;
-background: #FAC086;
+background: #dbd3ce;
 
 }
 
 h1 {
 font: bold 2.5em Georgia, serif;
-text-shadow: .1em .1em 0 em gray;
+text-shadow: .1em .1em 0 em black;
 color: #4F4E4D;
 }
 
@@ -39,7 +39,7 @@ padding-bottom: 2%;}
 
 h3 {
 font: bold 2em Georgia, serif;
-text-shadow: .1em .1em .1em gray;
+text-shadow: .1em .1em .1em black;
 text-align: center;
 margin:0 -15%; color: #4F4E4D;
 }
